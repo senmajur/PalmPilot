@@ -1,5 +1,6 @@
 
 # PalmPilot
+Below is a video showcase of the entire project on YouTube!
 [![Demo Video](https://img.youtube.com/vi/qekNE9RpXIQ/0.jpg)](https://youtu.be/qekNE9RpXIQ)
 
 PalmPilot is a computer vision-powered, hand gesture-controlled Arduino car. Using a webcam and AI, you can drive, steer, and stop the car with simple hand gestures—no physical remote required!
